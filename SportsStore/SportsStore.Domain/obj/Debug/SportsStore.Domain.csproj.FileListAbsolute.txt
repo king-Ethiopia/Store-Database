@@ -1,0 +1,9 @@
+F:\MVC Excercise\MVC 4 Excersice Feb 92015\EssentialTools\SportStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+F:\MVC Excercise\MVC 4 Excersice Feb 92015\EssentialTools\SportStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+F:\MVC Excercise\MVC 4 Excersice Feb 92015\EssentialTools\SportStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+F:\MVC Excercise\MVC 4 Excersice Feb 92015\EssentialTools\SportStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+F:\MVC Excercise\MVC 4 Excersice Feb 92015\EssentialTools\SportStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+F:\MVC Excercise\MVC 4 Excersice Feb 92015\EssentialTools\SportStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+F:\MVC Excercise\MVC 4 Excersice Feb 92015\EssentialTools\SportStore\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+F:\MVC Excercise\MVC 4 Excersice Feb 92015\EssentialTools\SportStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+F:\MVC Excercise\MVC 4 Excersice Feb 92015\EssentialTools\SportStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb

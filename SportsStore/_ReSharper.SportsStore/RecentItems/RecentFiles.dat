@@ -1,0 +1,66 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/f:Global.asax.cs" caret="1022" fromTop="23" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Controllers/f:NavController.cs" caret="529" fromTop="20" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Binders/f:CartModelBinder.cs" caret="677" fromTop="16" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Infrastructure/f:NinjectControllerFactory.cs" caret="1886" fromTop="27" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Models/f:CartIndexViewModel.cs" caret="183" fromTop="8" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Cart/f:Summary.cshtml" caret="86" fromTop="3" />
+    <File id="B63C3805-B4CC-4832-8776-7BA4858FF762/d:Concrete/f:EmailOrderProcessor.cs" caret="135" fromTop="5" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Cart/f:Completed.cshtml" caret="158" fromTop="5" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Cart/f:Checkout.cshtml" caret="262" fromTop="2" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Controllers/f:CartController.cs" caret="1511" fromTop="28" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Cart/f:Index.cshtml" caret="1266" fromTop="21" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Product/f:List.cshtml" caret="378" fromTop="16" />
+    <File id="B63C3805-B4CC-4832-8776-7BA4858FF762/d:Entities/f:Cart.cs" caret="0" fromTop="0" />
+    <File id="B63C3805-B4CC-4832-8776-7BA4858FF762/d:Abstract/f:IOrderProcessor.cs" caret="325" fromTop="13" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Content/f:Admin.css" caret="834" fromTop="16" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Content/f:Site.css" caret="2952" fromTop="12" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Shared/f:_Layout.cshtml" caret="33" fromTop="3" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Shared/f:_AdminLayout.cshtml" caret="560" fromTop="18" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Admin/f:Index.cshtml" caret="932" fromTop="32" />
+    <File id="B63C3805-B4CC-4832-8776-7BA4858FF762/d:Concrete/f:EFProductRepository.cs" caret="1460" fromTop="31" />
+    <File id="B63C3805-B4CC-4832-8776-7BA4858FF762/d:Abstract/f:IProductRepository.cs" caret="387" fromTop="14" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Controllers/f:AdminController.cs" caret="1792" fromTop="31" />
+    <File id="FC5C9EAB-3958-42BA-88F9-725CA6941DB9/f:UnitTest1.cs" caret="22463" fromTop="20" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Controllers/f:ProductController.cs" caret="1823" fromTop="43" />
+    <File id="B63C3805-B4CC-4832-8776-7BA4858FF762/d:Entities/f:ShippingDetails.cs" caret="50" fromTop="2" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Shared/f:ProductSummary.cshtml" caret="0" fromTop="0" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Admin/f:Edit.cshtml" caret="227" fromTop="9" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Account/f:Login.cshtml" caret="0" fromTop="0" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/f:Web.config" caret="1136" fromTop="16" />
+    <File id="B63C3805-B4CC-4832-8776-7BA4858FF762/d:Entities/f:Product.cs" caret="188" fromTop="6" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Controllers/f:NavController.cs" caret="529" fromTop="20" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Nav/f:Menu.cshtml" caret="345" fromTop="14" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Controllers/f:ProductController.cs" caret="1213" fromTop="21" />
+    <File id="B63C3805-B4CC-4832-8776-7BA4858FF762/d:Entities/f:Cart.cs" caret="1336" fromTop="13" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Models/f:CartIndexViewModel.cs" caret="295" fromTop="11" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Product/f:List.cshtml" caret="354" fromTop="15" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Shared/f:ProductSummary.cshtml" caret="236" fromTop="8" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Binders/f:CartModelBinder.cs" caret="382" fromTop="9" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/f:Global.asax.cs" caret="1022" fromTop="23" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Cart/f:Summary.cshtml" caret="301" fromTop="9" />
+    <File id="B63C3805-B4CC-4832-8776-7BA4858FF762/d:Entities/f:ShippingDetails.cs" caret="982" fromTop="32" />
+    <File id="B63C3805-B4CC-4832-8776-7BA4858FF762/d:Abstract/f:IOrderProcessor.cs" caret="325" fromTop="13" />
+    <File id="B63C3805-B4CC-4832-8776-7BA4858FF762/d:Concrete/f:EmailOrderProcessor.cs" caret="668" fromTop="17" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Infrastructure/f:NinjectControllerFactory.cs" caret="1886" fromTop="27" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Controllers/f:CartController.cs" caret="1394" fromTop="31" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Cart/f:Checkout.cshtml" caret="262" fromTop="9" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Cart/f:Completed.cshtml" caret="158" fromTop="5" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Cart/f:Index.cshtml" caret="1224" fromTop="19" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Content/f:Admin.css" caret="834" fromTop="16" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Admin/f:Index.cshtml" caret="932" fromTop="17" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Content/f:Site.css" caret="3486" fromTop="30" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Shared/f:_Layout.cshtml" caret="33" fromTop="3" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Shared/f:_AdminLayout.cshtml" caret="560" fromTop="18" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Views/d:Admin/f:Edit.cshtml" caret="227" fromTop="9" />
+    <File id="B63C3805-B4CC-4832-8776-7BA4858FF762/d:Abstract/f:IProductRepository.cs" caret="387" fromTop="14" />
+    <File id="B63C3805-B4CC-4832-8776-7BA4858FF762/d:Concrete/f:EFProductRepository.cs" caret="1460" fromTop="31" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/d:Controllers/f:AdminController.cs" caret="1792" fromTop="31" />
+    <File id="FC5C9EAB-3958-42BA-88F9-725CA6941DB9/f:UnitTest1.cs" caret="22888" fromTop="31" />
+    <File id="ABD2BC8C-FAAD-453E-A4C5-98D48242805E/f:Web.config" caret="1136" fromTop="16" />
+    <File id="B63C3805-B4CC-4832-8776-7BA4858FF762/d:Entities/f:Product.cs" caret="429" fromTop="15" />
+  </RecentEdits>
+</RecentFiles>
